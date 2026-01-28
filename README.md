@@ -5,21 +5,31 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a **Computer Science student** who enjoys building scalable web applications and writing clean, efficient code.  
-My interests lie in **backend development**, **full-stack systems**, and **problem-solving with DSA**.
+I’m a Computer Science student who enjoys building scalable web applications and writing clean, efficient code.  
+My interests lie in backend development, full-stack systems, and problem-solving using DSA.
 
 - 🔭 Building full-stack and client–server applications  
-- 🌱 Learning system design and backend architecture  
-- 🎯 Looking for **software development internships**
+- 🌱 Learning backend architecture & system design  
+- 🎯 Looking for software development internships  
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** C, Java, JavaScript  
-**Frontend:** HTML, CSS, React.js  
-**Backend:** Node.js, Express.js, Spring Boot  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Postman, VS Code  
+
+### Languages
+![Languages](https://skillicons.dev/icons?i=c,java,js)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,react)
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express,spring)
+
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
 ---
 
@@ -27,16 +37,18 @@ My interests lie in **backend development**, **full-stack systems**, and **probl
 
 ### 🔹 Social Media Application
 Full-stack platform with authentication, posts, likes, and comments.  
-Built REST APIs using Spring Boot and a responsive frontend using modern JS tooling.
+Designed REST APIs with Spring Boot and a responsive frontend using modern JavaScript tooling.
 
-**Tech:** Java, Spring Boot, MySQL, REST APIs, JavaScript
+**Tech:**  
+![Tech](https://skillicons.dev/icons?i=java,spring,mysql,js)
 
 ---
 
 ### 🔹 Expense Tracker
-MERN-based application for tracking and visualizing expenses with CRUD operations.
+MERN-based application to track and visualize expenses with CRUD operations.
 
-**Tech:** MongoDB, Express.js, React.js, Node.js
+**Tech:**  
+![Tech](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)
 
 ---
 
@@ -46,5 +58,5 @@ MERN-based application for tracking and visualizing expenses with CRUD operation
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/mahendharjillala  
+- GitHub: https://github.com/mahendharjillala    
 - LinkedIn: https://www.linkedin.com/in/mahendharjillala
